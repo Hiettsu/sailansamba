@@ -59,6 +59,7 @@ def function3_backround():
     t.start()
 
 root = Tk()
+root.title('Moottorit')
 
 w = 450 # width for the Tk root
 h = 500# height for the Tk root
