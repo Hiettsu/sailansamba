@@ -8,7 +8,7 @@ version 0.2
   -added root.after loop and backround threads.
   
 version 0.3
-  -Deleted time.sleep causing the mainloop lag
+  -removed time.sleep causing the mainloop lag
   -added canvas picture to get more comfortable GUI
   -added two buttons more for better control for motors
   -added more outputs to def function3 and added function4
