@@ -1,0 +1,16 @@
+version 0.1
+  -Rolling the motors on while true loop
+  -No GUI, just raw script
+ 
+version 0.2
+  -added tkinter gui
+  -several def variables added
+  -added root.after loop and backround threads.
+  
+version 0.3
+  -Deleted time.sleep causing the mainloop lag
+  -added canvas picture to get more comfortable GUI
+  -added two buttons more for better control for motors
+  -added more outputs to def function3 and added function4
+  -added from PIL import ImageTk,Image
+  
