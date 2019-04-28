@@ -13,4 +13,5 @@ version 0.3
   -added two buttons more for better control for motors
   -added more outputs to def function3 and added function4
   -added from PIL import ImageTk,Image
+  -added root.after_cancel with callback
   
