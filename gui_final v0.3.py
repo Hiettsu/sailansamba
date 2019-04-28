@@ -85,9 +85,6 @@ button3 = Button(frame, text ='Seis', fg='red',command=function3_backround)
 button4 = Button(frame, text='Asetukset', fg='black',command=asetukset).grid(row=2,column=1)
 button4 = Button(frame, text ='Asetukset', fg='black',command=asetukset_backround)
 
-#background_image=tk.PhotoImage(file="/home/pi/Desktop/Sailansamba/nytmeni.jpg")
-#background_label.place(x=0, y=0, relwidth=1, relheight=1)
-#root.wm_geometry("600x400+20+40")
 
 canvas = Canvas(root, width = 1280, height = 958)  
 canvas.pack()  
